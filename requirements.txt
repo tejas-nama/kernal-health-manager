@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+psutil
+wmi
+gputil
+python-multipart
+python-socketio
