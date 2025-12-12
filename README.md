@@ -10,7 +10,7 @@
 ---
 
 ## 🎥 Project Demo
-*[Insert your demo video link here]*
+*https://www.youtube.com/watch?v=x0FhvSGHs-w*
 
 ---
 
